@@ -1,0 +1,15 @@
+* {
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+
+.hi {
+  text-align: center;
+  vertical-align: middle;
+  color: whitesmoke;
+  padding: 90px;
+}
